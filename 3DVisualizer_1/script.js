@@ -29,7 +29,7 @@ const playlist = {
   // "another man": "https://res.cloudinary.com/broregard/video/upload/v1550441401/Another_Man_wl53nr.mp3",
   // "susie": "https://res.cloudinary.com/broregard/video/upload/v1550441392/susie_hiz4tj.mp3"
   
-  "blackbird": "https://res.cloudinary.com/ddqdpeyek/video/upload/v1551488252/Martyn_Bennett_-_Blackbird.mp3"
+  "blackbird": "https://christinecheng1013.github.io/2Dvisualizer/3DVisualizer_1/acid-sounds.mp3"
 };
 
 
