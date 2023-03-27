@@ -82,7 +82,7 @@ function userStart() {
 function audioSetup() {
 
 	audio = new Audio();
-  audio.src = 'https://nkunited.de/ExternalImages/jsfiddle/audio/Atlantis-Audionautix-_192kbit_AAC_.mp3';
+  audio.src = 'https://christinecheng1013.github.io/2Dvisualizer/3DVisualizer_1/acid-sounds.mp3';
   audio.controls = false;
   audio.loop = true;
   audio.autoplay = true;
