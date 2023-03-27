@@ -35,7 +35,7 @@ class App {
     this.playIntro = document.querySelector('.play-intro');
     this.loaderBar = document.querySelector('.loader');
 
-    this.loader.load('https://iondrimbafilho.me/audio.mp3');
+    this.loader.load('https://christinecheng1013.github.io/2Dvisualizer/3DVisualizer_1/acid-sounds.mp3');
     this.loader.complete = this.complete.bind(this);
 
     this.playing = false;
